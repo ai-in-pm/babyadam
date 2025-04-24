@@ -8,7 +8,7 @@ authors = ["Darrell Mesa <darrell.mesa@pm-ss.org>"]
 python = ">=3.10.0,<3.12"
 db = "^0.1.1"
 flask = "^3.0.3"
-werkzeug = "^3.0.4"
+werkzeug = "^3.0.6"
 setuptools = "^75.1.0"
 
 [tool.pyright]
