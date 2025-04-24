@@ -1,4 +1,5 @@
 # BabyAdam
+<img width="578" alt="babyadam" src="https://github.com/user-attachments/assets/f955790f-7bed-4949-99a9-df76f3bd31b9" />
 
 <img src="babyadam.png" alt="BabyAdam Logo" width="200"/>
 
