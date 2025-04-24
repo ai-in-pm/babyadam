@@ -1,5 +1,6 @@
 # BabyAdam
-<img width="578" alt="babyadam" src="https://github.com/user-attachments/assets/f955790f-7bed-4949-99a9-df76f3bd31b9" />
+
+![babyadamrobot](https://github.com/user-attachments/assets/eeeb7932-cc53-4135-ac18-ab40bea49fd4)
 
 <img src="babyadam.png" alt="BabyAdam Logo" width="200"/>
 
