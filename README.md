@@ -2,8 +2,6 @@
 
 ![babyadamrobot](https://github.com/user-attachments/assets/eeeb7932-cc53-4135-ac18-ab40bea49fd4)
 
-<img src="babyadam.png" alt="BabyAdam Logo" width="200"/>
-
 > [!NOTE]
 > This project is a fork of the original BabyAGI project, renamed to BabyAdam (Applied Decision Architecture Matrix) and maintained by Darrell Mesa.
 
